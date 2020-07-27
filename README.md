@@ -10,4 +10,4 @@ Steps to run
 
 4 - python Data.py   #  For running model
 
-5 - Streamlit run plotly_graph.py   # For Dashboard
+5 - streamlit run plotly_graph.py   # For Dashboard
