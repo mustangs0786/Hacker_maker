@@ -4,7 +4,7 @@ prophet==0.1.1
 plotly==4.9.0
 matplotlib==3.2.1
 seaborn==0.10.0
-streamlit==0.64.0
+streamlit==1.11.1
 scikit-image==0.16.2
 scikit-learn==0.22.1
 
